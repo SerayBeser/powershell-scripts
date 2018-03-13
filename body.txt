@@ -1,0 +1,175 @@
+<tr>
+<td align="center" style="padding:0;margin:0;line-height:1px;font-size:1px">
+
+<table class="m_-8795606974750589231collapse" id="m_-8795606974750589231header" align="center" width="448" style="width:448px;background-color:#ffffff;padding:0;margin:0;line-height:1px;font-size:1px" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+<tbody>
+<tr>
+<td colspan="4" height="24" style="height:24px;padding:0;margin:0;line-height:1px;font-size:1px" class=""> &nbsp; </td>
+</tr>
+<tr align="right">
+<td width="24" class="m_-8795606974750589231margin" style="padding:0;margin:0;line-height:1px;font-size:1px"></td>
+<td align="right" style="padding:0;margin:0;line-height:1px;font-size:1px"> <a href="" style="text-decoration:none;border-style:none;border:0;padding:0;margin:0"> <img width="32" align="right" src=""> </a> </td>
+<td width="24" class="m_-8795606974750589231margin" style="padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+<tr>
+<td colspan="3" height="24" style="height:24px;padding:0;margin:0;line-height:1px;font-size:1px" class=""> <img width="1" height="1" style="display:block;margin:0;padding:0;display:block;border:none;outline:none" src="" class="CToWUd"> </td>
+</tr>
+</tbody>
+</table>
+
+
+<table class="m_-8795606974750589231collapse" id="m_-8795606974750589231header" align="center" width="448" style="width:448px;background-color:#ffffff;padding:0;margin:0;line-height:1px;font-size:1px" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+<tbody>
+<tr align="left;">
+<td width="24" class="m_-8795606974750589231margin" style="padding:0;margin:0;line-height:1px;font-size:1px"></td>
+<td align="left;" style="padding:0;margin:0;line-height:1px;font-size:1px">
+<table class="m_-8795606974750589231collapse" cellpadding="0" cellspacing="0" border="0" style="padding:0;margin:0;line-height:1px;font-size:1px">
+<tbody>
+<tr>
+<td align="left;" class="m_-8795606974750589231h2" style="padding:0;margin:0;line-height:1px;font-size:1px;font-family:'HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:24px;line-height:32px;font-weight:bold;color:#292f33;text-align:left;text-decoration:none"> Hesabın Ele Geçirildi! </td>
+</tr>
+<tr>
+<td height="12" style="padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+<tr>
+<td align="left;" class="m_-8795606974750589231body-text" style="padding:0;margin:0;line-height:1px;font-size:1px;font-family:'HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;line-height:20px;font-weight:400;color:#292f33;text-align:left;text-decoration:none"> XXX Hesabında şüpheli hesap hareketleri tespit ettik görünüşe göre, başka birinin veya internet sitesinin sana ait bazı hassas hesap bilgilerine erişmiş olmasından dolayı hesabın spam yayıyor. Hesabını kurtarmak için aşağıdaki butona tıkla. </td>
+</tr>
+<tr>
+<td height="24" style="padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+
+<tr>
+<td align="left;" style="padding:0;margin:0;line-height:1px;font-size:1px">
+<table border="0" cellspacing="0" cellpadding="0" style="padding:0;margin:0;line-height:1px;font-size:1px">
+<tbody>
+<tr>
+<td style="padding:0;margin:0;line-height:1px;font-size:1px">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding:0;margin:0;line-height:1px;font-size:1px">
+<tbody>
+<tr>
+<td style="padding:0;margin:0;line-height:1px;font-size:1px">
+<table border="0" cellspacing="0" cellpadding="0" style="padding:0;margin:0;line-height:1px;font-size:1px">
+<tbody>
+<tr>
+<td align="center" class="m_-8795606974750589231bulletproof-btn-1" bgcolor="#1DA1F2" style="padding:0;margin:0;line-height:1px;font-size:1px;border-radius:4px;line-height:12px"><a href="" class="m_-8795606974750589231bulletproof-btn-2" style="text-decoration:none;border-style:none;border:0;padding:0;margin:0;font-size:12px;font-family:'HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;color:#ffffff;text-decoration:none;border-radius:4px;padding:8px 17px;border:1px solid #1da1f2;display:inline-block;font-weight:bold" target="_blank" data-saferedirecturl="">
+ <strong>Şifreyi sıfırla</strong>
+ </a></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+
+<tr>
+<td height="36" style="height:36px;padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+<tr>
+<td align="left;" class="m_-8795606974750589231body-text" style="padding:0;margin:0;line-height:1px;font-size:1px;font-family:'HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;line-height:20px;font-weight:400;color:#292f33;text-align:left;text-decoration:none"> <strong>Çok sayıda şifre sıfırlama e-postası mı alıyorsun?</strong> </td>
+</tr>
+<tr>
+<td height="12" style="padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+<tr>
+<td align="left;" class="m_-8795606974750589231body-text" style="padding:0;margin:0;line-height:1px;font-size:1px;font-family:'HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;line-height:20px;font-weight:400;color:#292f33;text-align:left;text-decoration:none"> Şifreni sıfırlamak için kişisel bilgilerin girilmesini zorunlu kılmak üzere <a href="" style="text-decoration:none;border-style:none;border:0;padding:0;margin:0;border:none;text-decoration:none;font-weight:400;color:#1da1f2" target="_blank" data-saferedirecturl="">hesap ayarlarını</a> değiştirebilirsin. </td>
+</tr>
+<tr>
+<td height="36" style="padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+</tbody>
+</table> </td>
+<td width="24" class="m_-8795606974750589231margin" style="padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+
+<tr>
+<td height="1" style="line-height:1px;display:block;height:1px;background-color:#f5f8fa;padding:0;margin:0;line-height:1px;font-size:1px"></td>
+<td align="center" style="padding:0;margin:0;line-height:1px;font-size:1px">
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0" class="m_-8795606974750589231edu-module" style="padding:0;margin:0;line-height:1px;font-size:1px;background-color:#ffffff;border-radius:5px">
+<tbody>
+<tr>
+<td height="1" style="line-height:1px;display:block;height:1px;background-color:#f5f8fa;padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+</tbody>
+</table> </td>
+<td height="1" style="line-height:1px;display:block;height:1px;background-color:#f5f8fa;padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+<tr>
+<td colspan="3" height="24" class="m_-8795606974750589231edu-space" style="padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+<tr>
+<td width="24" class="m_-8795606974750589231edu-margins" style="padding:0;margin:0;line-height:1px;font-size:1px"></td>
+<td align="center" style="padding:0;margin:0;line-height:1px;font-size:1px">
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0" class="m_-8795606974750589231edu-module" bgcolor="#F5F8FA" style="padding:0;margin:0;line-height:1px;font-size:1px;background-color:#ffffff;border-radius:5px">
+<tbody>
+<tr>
+<td align="left" style="padding:0;margin:0;line-height:1px;font-size:1px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="padding:0;margin:0;line-height:1px;font-size:1px">
+<tbody>
+<tr>
+<td class="m_-8795606974750589231edu-header" style="padding:0;margin:0;line-height:1px;font-size:1px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;line-height:22px;text-align:left;color:#8899a6"> <strong>Bir e-postanın XXX tarafından gönderildiğini nasıl anlarım?</strong> </td>
+</tr>
+<tr>
+<td colspan="3" height="12" style="padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+<tr>
+<td class="m_-8795606974750589231edu-text" style="padding:0;margin:0;line-height:1px;font-size:1px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;line-height:19px;font-weight:400;text-align:left;color:#8899a6"> Bu e-postadaki bağlantılar “<span class="m_-8795606974750589231no-link"><a href="" style="text-decoration:none;border-style:none;border:0;padding:0;margin:0;color:#8899a6;text-decoration:none">https://</a></span>” ile başlar ve “<span class="m_-8795606974750589231no-link"><a href="" style="text-decoration:none;border-style:none;border:0;padding:0;margin:0;color:#8899a6;text-decoration:none" target="_blank" data-saferedirecturl="">XXX.com</a></span>” ifadesini içerir. Ayrıca tarayıcında bir kilit simgesi görüntülenir; bu, sitenin güvenli olduğunu belirtir. </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="24" class="m_-8795606974750589231edu-margins" style="padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+<tr>
+<td colspan="3" height="24" class="m_-8795606974750589231edu-space" style="padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+<tr>
+<td height="1" style="line-height:1px;display:block;height:1px;background-color:#f5f8fa;padding:0;margin:0;line-height:1px;font-size:1px"></td>
+<td align="center" style="padding:0;margin:0;line-height:1px;font-size:1px">
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0" class="m_-8795606974750589231edu-module" style="padding:0;margin:0;line-height:1px;font-size:1px;background-color:#ffffff;border-radius:5px">
+<tbody>
+<tr>
+<td height="1" style="line-height:1px;display:block;height:1px;background-color:#f5f8fa;padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+</tbody>
+</table> </td>
+<td height="1" style="line-height:1px;display:block;height:1px;background-color:#f5f8fa;padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+
+</tbody>
+</table>
+
+
+<table class="m_-8795606974750589231collapse" id="m_-8795606974750589231footer" align="center" width="448" style="width:448px;background-color:#ffffff;padding:0;margin:0;line-height:1px;font-size:1px" cellpadding="0" cellspacing="0" border="0">
+<tbody>
+<tr>
+<td height="36" style="height:36px;padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+<tr>
+<td align="center" style="padding:0;margin:0;line-height:1px;font-size:1px"> <span class="m_-8795606974750589231small-copy" style="font-family:'HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;line-height:16px;font-weight:400;color:#8899a6;text-align:left;text-decoration:none"> <a href="" class="m_-8795606974750589231small-copy" style="text-decoration:none;border-style:none;border:0;padding:0;margin:0;font-family:'HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;line-height:16px;font-weight:400;color:#8899a6;text-align:left;text-decoration:none;font-family:'HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;line-height:16px;font-weight:600;color:#1da1f2;text-align:left;text-decoration:none" target="_blank" data-saferedirecturl="">Yardım</a> &nbsp;|&nbsp; <a href="" class="m_-8795606974750589231small-copy" style="text-decoration:none;border-style:none;border:0;padding:0;margin:0;font-family:'HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;line-height:16px;font-weight:400;color:#8899a6;text-align:left;text-decoration:none;font-family:'HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;line-height:16px;font-weight:600;color:#1da1f2;text-align:left;text-decoration:none" target="_blank" data-saferedirecturl="">Benim hesabım değil</a> &nbsp;|&nbsp; <a href="" style="text-decoration:none;border-style:none;border:0;padding:0;margin:0;font-family:'HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;line-height:16px;font-weight:400;color:#8899a6;text-align:left;text-decoration:none;font-family:'HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;line-height:16px;font-weight:600;color:#1da1f2;text-align:left;text-decoration:none" target="_blank" data-saferedirecturl="">E-posta güvenliği ipuçları</a> </span> </td>
+</tr>
+<tr>
+<td height="12" style="height:12px;line-height:1px;font-size:1px;padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+<tr>
+<td align="center" style="padding:0;margin:0;line-height:1px;font-size:1px"> <span class="m_-8795606974750589231small-copy" style="font-family:'HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;line-height:16px;font-weight:400;color:#8899a6;text-align:left;text-decoration:none"> </span> </td>
+</tr>
+<tr>
+<td height="6" style="height:6px;line-height:1px;font-size:1px;padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+<tr>
+<td align="center" style="padding:0;margin:0;line-height:1px;font-size:1px"> <span class="m_-8795606974750589231address"> <a href="" style="text-decoration:none;border-style:none;border:0;padding:0;margin:0;font-family:'HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;color:#8899a6;font-size:12px;padding:0px;margin:0px;font-weight:normal;line-height:12px">XXX, Inc. 1344 Market Street, Suite 850 San Francisco, CA 941032</a> </span> </td>
+</tr>
+<tr>
+<td height="72" style="height:72px;padding:0;margin:0;line-height:1px;font-size:1px"></td>
+</tr>
+</tbody>
+</table>
+ </td>
+</tr>
