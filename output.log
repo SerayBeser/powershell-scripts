@@ -1,0 +1,10 @@
+04/01/2018 16:28:53 [BEGIN] Sending Phishing Email Program 
+04/01/2018 16:29:00 [INPUT] Getting input for <from>:  besers65@gmail.com
+04/01/2018 16:29:02 [INPUT] Getting input for <to>:  besers65@gmail.com
+04/01/2018 16:29:06 [INPUT] Getting input for <operation>: default
+04/01/2018 16:29:06 [INFO] Default server is smtp.gmail.com.
+04/01/2018 16:29:06 [DONE] Default server port is 587.
+04/01/2018 16:29:10 [INPUT] You input password for < besers65@gmail.com> : ********
+04/01/2018 16:29:10 [INFO] Sending Phishing E-Mail to  besers65@gmail.com...
+04/01/2018 16:29:11 [ERROR] Phishing E-Mail Send Failed.
+04/01/2018 16:29:11 [DONE] Program Closed.
