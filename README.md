@@ -17,7 +17,8 @@ a list) The program also allows you to send mail in html format at the same time
 it is enough to mark the -isbodyHtml flag as true by taking the html formatted text's path 
 with the -bodyPath flag. Use the -attachmentPath flag to attach an attachment to the e-mail.
 
-All the informations and errors are given as a output. Program will produce you a 'output.txt' report file.
+All the informations and errors are given as a output. Program will produce you a 'output.log' log file.
+If you want to use another output file please use the -output and -outputFile.
 
 #### [HELP] run $.\Send-PhishingMail -help
 
