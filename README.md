@@ -8,25 +8,25 @@ your security settings here : https://myaccount.google.com/lesssecureapps.
 
 If you do not use gmail please use the -server and -serverPort to change the server settings.
 
-###### [HELP] run $.\Send-PhishingMail -help
+#### [HELP] run $.\Send-PhishingMail -help
 
  ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/7.png)
  
- ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/8.png")
+ ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/8.png)
 
-###### [SEND DEFAULT PHISHING MAIL] run $.\Send-PhishingMail
+#### [SEND DEFAULT PHISHING MAIL] run $.\Send-PhishingMail
 
  ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/1.png)
  ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/2.png)
  ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/3.png)
  ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/4.png)
 
-###### [SEND MANUEL PHISHING MAIL] run $.\Send-PhishingMail
+#### [SEND MANUEL PHISHING MAIL] run $.\Send-PhishingMail
 
  ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/5.png)
  ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/6.png)
 
-###### [SEND DEFAULT PHISHING MAIL via FLAGS] run $.\Send-PhishingMail
+#### [SEND DEFAULT PHISHING MAIL via FLAGS] run $.\Send-PhishingMail
 
  ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/9.png)
  ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/10.png)
