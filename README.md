@@ -8,7 +8,18 @@ your security settings here : https://myaccount.google.com/lesssecureapps.
 
 If you do not use gmail please use the -server and -serverPort to change the server settings.
 
+Send-PhishingMail Program sends phishing mail to the 
+destination mail address(es). By default, there is a phishing mail in the program. However, 
+if you want to send another mail, you can do it with the -operation flag. <manuel> takes the 
+subject and the body from the user and sends it to the destination address(es). The program 
+has the ability to send mail to many people at the same time by using -to flag. (-to can get 
+a list) The program also allows you to send mail in html format at the same time. For this, 
+it is enough to mark the -isbodyHtml flag as true by taking the html formatted text's path 
+with the -bodyPath flag. Use the -attachmentPath flag to attach an attachment to the e-mail.
+
 #### [HELP] run $.\Send-PhishingMail -help
+
+User can use this command to get informations about how to use. This command will show you parameters and some usage examples.
 
  ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/7.png)
  
@@ -26,11 +37,10 @@ If you do not use gmail please use the -server and -serverPort to change the ser
  ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/5.png)
  ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/6.png)
 
-#### [SEND DEFAULT PHISHING MAIL via FLAGS] run $.\Send-PhishingMail
+#### [SEND DEFAULT PHISHING MAIL via FLAGS] run $.\Send-PhishingMail -from <from> -to <to> -operation <default | manuel>
 
  ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/9.png)
  ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/10.png)
-
 
 
 
