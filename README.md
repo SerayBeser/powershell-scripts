@@ -11,6 +11,8 @@ __Send-PhishingMail__ Program sends phishing mail to the  destination mail addre
 
 All the informations and errors are given as a output. Program will produce you a 'output.log' log file. If you want to use another output file please use the -output and -outputFile.
 
+## [FOR WINDOWS] 
+
 #### [HELP] run $.\Send-PhishingMail -help
 
 User can use this command to get informations about how to use. This command will show you parameters.
@@ -35,6 +37,17 @@ User can use this command to get informations about how to use. This command wil
 
  ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/9.png)
  ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/10.png)
+
+## [FOR LINUX] 
+
+#### [INSTALLATION POWERSHELL] $ sudo apt install powershell
+
+ ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/a1.png)
+ ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/a2.png)
+ ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/a3.png)
+ ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/a4.png)
+ ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/a5.png)
+ ![alt text](https://github.com/SerayBeser/powershell-scripts/blob/master/screenshots/a6.png)
 
 
 
